@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/guaguagua-mac/ClionProjects/zys/coord.cpp
+coord.h
+/Users/guaguagua-mac/ClionProjects/zys/coord.h
+
+/Users/guaguagua-mac/ClionProjects/zys/coord.h
+stdio.h
+-
+cmath
+-
+string
+-
+list
+-
+vector
+-
+map
+-
+deque
+-
+time.h
+-
+float.h
+-
+
+/Users/guaguagua-mac/ClionProjects/zys/main.cpp
+iostream
+-
+coord.h
+/Users/guaguagua-mac/ClionProjects/zys/coord.h
+
